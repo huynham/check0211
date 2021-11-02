@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/huynham/check0211.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/huynham/check0211.git/static/js/main.db6a22e7.chunk.js",
+    "main.js.map": "/huynham/check0211.git/static/js/main.db6a22e7.chunk.js.map",
+    "runtime-main.js": "/huynham/check0211.git/static/js/runtime-main.a1d2b42e.js",
+    "runtime-main.js.map": "/huynham/check0211.git/static/js/runtime-main.a1d2b42e.js.map",
+    "static/js/2.2396db9d.chunk.js": "/huynham/check0211.git/static/js/2.2396db9d.chunk.js",
+    "static/js/2.2396db9d.chunk.js.map": "/huynham/check0211.git/static/js/2.2396db9d.chunk.js.map",
+    "static/js/3.257415ea.chunk.js": "/huynham/check0211.git/static/js/3.257415ea.chunk.js",
+    "static/js/3.257415ea.chunk.js.map": "/huynham/check0211.git/static/js/3.257415ea.chunk.js.map",
+    "index.html": "/huynham/check0211.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/huynham/check0211.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2396db9d.chunk.js.LICENSE.txt": "/huynham/check0211.git/static/js/2.2396db9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1d2b42e.js",
+    "static/js/2.2396db9d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.db6a22e7.chunk.js"
+  ]
+}
